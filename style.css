@@ -1,0 +1,22 @@
+body {
+    background-image: url(img/lined-paper.png);
+    text-align: right;
+    font-family: 'mainFont', sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: 'titleFont', serif;
+}
+button {
+    font-family: 'mainFont', sans-serif;
+}
+
+@font-face {
+    font-family: 'mainFont';
+    src: url(fonts/doodle.ttf);
+}
+
+@font-face {
+    font-family: 'titleFont';
+    src: url(fonts/whiteboard.ttf);
+}
